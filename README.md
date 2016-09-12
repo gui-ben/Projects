@@ -2,6 +2,8 @@
 
 In this repository, you will find some projects I have done for my classes at UBA (University of Buenos Aires) and NTNU (Norwegian University of Science and Technology).
 
+---
+
 
 #### [Cartas Enlazadas] (Algorithms and Data Structures II/Cartas Enlazadas)
 
@@ -10,3 +12,6 @@ In this repository, you will find some projects I have done for my classes at UB
 `g++ -g tests.cpp -o tests`
 
 `valgrind --leak-check=full -v ./tests` 
+
+
+---
