@@ -13,5 +13,16 @@ In this repository, you will find some projects I have done for my classes at UB
 
 `valgrind --leak-check=full -v ./tests` 
 
+---
+
+
+#### [Fire Alarm System] (TTM4115 - Engineering Distributed Real-time Systems)
+
+This was a term assignmet for the class "Engineering Distributed Real-time Systems" at NTNU. We worked in groups of 3, and the task was to build a distributed system that solved a specific problem, document the system and its development, and finally implement it using several Raspberry Pi as nodes. In our case, we decided to model a fire alarm system, using the Raspberry Pis as sensors. 
+
+In the first part of the project we had to make the specification and documentation using UML structure diagrams, sequence diagrams, activity diagrams and state machines of all the different parts of the system.
 
 ---
+
+
+
