@@ -5,7 +5,7 @@ In this repository, you will find some projects I have done for my classes at UB
 ---
 
 
-#### [Cartas Enlazadas] (Algorithms and Data Structures II/Cartas Enlazadas)
+### [Cartas Enlazadas] (Algorithms and Data Structures II/Cartas Enlazadas)
 
 "Cartas Enlazadas" (*linked cards*) was a one person project I had for "Algorithms and Data Structures II" at UBA. The goal was to model a ficticious game of the same name. In order to do that, we had to implement a generic doubly linked list in C++. We also had to make sure it didn't have any kind of memory leak using Valgrind. To run the test cases and check for memory leaks run the following commands in a Linux terminal:
 
@@ -16,7 +16,7 @@ In this repository, you will find some projects I have done for my classes at UB
 ---
 
 
-#### [Fire Alarm System] (TTM4115 - Engineering Distributed Real-time Systems)
+### [Fire Alarm System] (TTM4115 - Engineering Distributed Real-time Systems)
 
 This was a term assignment for the class "Engineering Distributed Real-time Systems" at NTNU. We worked in groups of 3, and the task was to build a distributed system that solved a specific problem, document the system and its development, and finally implement it using several Raspberry Pi as nodes. In our case, we decided to model a fire alarm system, using the Raspberry Pis as sensors. 
 
