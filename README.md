@@ -7,7 +7,7 @@ In this repository, you will find some projects I have done for my classes at UB
 
 ### [Cartas Enlazadas] (Algorithms and Data Structures II/Cartas Enlazadas)
 
-"Cartas Enlazadas" (*linked cards*) was a one person project I had for "Algorithms and Data Structures II" at UBA. The goal was to model a ficticious game of the same name. In order to do that, we had to implement a generic doubly linked list in C++. We also had to make sure it didn't have any kind of memory leak using Valgrind. To run the test cases and check for memory leaks run the following commands in a Linux terminal:
+"Cartas Enlazadas" (*linked cards*) was a one person project for the class "Algorithms and Data Structures II" at UBA. The goal was to model a ficticious game of the same name. In order to do that, we had to implement a generic doubly linked list in C++. We also had to make sure it didn't have any kind of memory leak using Valgrind. To run the test cases and check for memory leaks run the following commands in a Linux terminal:
 
 `g++ -g tests.cpp -o tests`
 
@@ -28,6 +28,6 @@ In the first part of the project we had to make the specification and documentat
 
 This was the final project for the 2014 intensive winter course "Big Data Architecture: Compute, Storage, Networking challenges" done at UBA. The topic was visual exploration of Big Data. I decided to analize the final match of the 2014 FIFA World Cup by using the data from the match that FIFA released on its website. 
 
-FIFA offered, among other thigs, tables of the ball passes distribution of Argentina and Germany. Using that data, I made graphs for both teams using each player as a node in a network and each pass as an edge connecting nodes. I then distributed the nodes reflecting the position of each player on the pitch and used the thickness of the arrows to represent the number of passes between nodes. This network-based analysis of a game allow for a quantifiable representation of the style of each team, identifies key players and highlights potential weaknesses.
+FIFA offered, among other thigs, tables of the ball passes distribution of Argentina and Germany. Using that data, I made graphs for both teams using each player as a node in a network and each pass as an edge connecting nodes. I then distributed the nodes reflecting the position of each player on the pitch and used the thickness of the arrows to represent the number of passes between nodes. This network-based analysis of a game allowed for a quantifiable representation of the style of each team, identified key players and highlighted potential weaknesses.
 
 ---
